@@ -1,4 +1,3 @@
-# BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
 <h3>Name: SRI KARTHICKEYAN GANAPATHY </h3>
 <h3>Register Number: 212222240102 </h3>
